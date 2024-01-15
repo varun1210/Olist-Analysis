@@ -1,2 +1,2 @@
-# olist_dataset_analysis
-An analysis of the Olist dataset.
+# Olist Dataset Analysis
+An analysis of the Brazilian e-commerce Olist dataset.
